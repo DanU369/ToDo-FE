@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# ToDo App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made using:
+Java Spring Boot (BE)
+JavaScript  React Bootstrap (FE)
+PostgreSQL (DB)
 
 ## Available Scripts
 
